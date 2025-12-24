@@ -17,7 +17,7 @@ Tap the ⋮ menu
 Tap Add to Home screen or Install app (wording varies)
 Confirm
 
-It’ll appear as an app icon and can run offline after the first use
+It will appear as an app icon and can run offline after the first use
 
 OR 
 

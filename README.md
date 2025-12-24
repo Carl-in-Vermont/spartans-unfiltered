@@ -1,24 +1,34 @@
-# spartans-unfiltered
-App "Spartans Unfiltered" for phones or use on the web, with conversation prompts for teenagers.
+# Spartans Unfiltered - Installation and Usage Guide
 
-Add the app to Home Screen on your phone 
+## For iPhone (Safari)
+1. Open Safari
+2. Go to <https://carl-in-vermont.github.io/spartans-unfiltered/>
+3. Tap the **Share** icon (square with arrow)
+4. Select **"Add to Home Screen"**
+5. Name it "Spartans Unfiltered"
+6. Tap **Add**
 
-iPhone
-Open Safari
-Go to https://carl-in-vermont.github.io/spartans-unfiltered/ 
-Tap the Share icon (square with arrow)
-Tap Add to Home Screen
-Name it “Spartans Unfiltered” (without the quotes) → Add
+The app will now appear on your home screen and can be used offline after the first load.
 
-Android
-Open Chrome
-Go to https://carl-in-vermont.github.io/spartans-unfiltered/ 
-Tap the ⋮ menu
-Tap Add to Home screen or Install app (wording varies)
-Confirm
+## For Android (Chrome)
+1. Open Chrome
+2. Go to <https://carl-in-vermont.github.io/spartans-unfiltered/>
+3. Tap the **⋮** (three-dot) menu
+4. Select **"Add to Home screen"** or **"Install app"** (wording may vary)
+5. Confirm the installation
 
-It will appear as an app icon and can run offline after the first use
+The app will appear as an icon and can run offline after the first use.
 
-OR 
+## Using on the Web
+You can also access the app directly in any browser:
 
-Use the app on the web (on a phone or computer): Go to https://carl-in-vermont.github.io/spartans-unfiltered/ 
+1. Go to <https://carl-in-vermont.github.io/spartans-unfiltered/>
+2. Works on both phones and computers
+
+## Features
+- Conversation prompts for teenagers
+- Offline functionality after first use
+- Responsive design that works on all devices
+
+## Notes
+This is a web app, not a native application. The "Add to Home Screen" feature creates an icon that launches the app in your default browser.

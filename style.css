@@ -1,4 +1,4 @@
-﻿:root {
+:root {
   --spartan-navy: #1c233f;
   --spartan-white: #ffffff;
 }
@@ -85,4 +85,27 @@ button.secondary {
   font-size: 0.95rem;
   padding: 0.45rem 1rem;
   opacity: 0.9;
+}
+/* Ensures vertical stacking stays centered */
+.button-stack {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Stable reference height for spacing */
+#nextBtn {
+  min-height: 3.25rem;
+}
+
+/* Large gap ABOVE the explanation (matches button gap) */
+.refresh-hint {
+  margin-top: 3.25rem;   /* same as gap between buttons */
+  margin-bottom: 0.5rem; /* small, natural text-to-button gap */
+  text-align: center;
+}
+
+/* Small, normal spacing below explanation */
+#refreshBtn {
+  margin-top: 0;
 }

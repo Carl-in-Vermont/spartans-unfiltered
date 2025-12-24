@@ -1,0 +1,20 @@
+﻿{
+  "name": "Spartans Unfiltered",
+  "short_name": "Spartans",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1c233f",
+  "theme_color": "#1c233f",
+  "icons": [
+    {
+      "src": "spartan-logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "spartan-logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
